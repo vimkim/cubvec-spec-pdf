@@ -3,4 +3,9 @@ authors = ["Daehyun Kim"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Cubvec Spec Draft"
+title = "CUBVEC Spec Draft"
+
+[preprocessor.toc]
+command = "mdbook-toc"
+renderer = ["html"]
+marker = "[[_TOC_]]"

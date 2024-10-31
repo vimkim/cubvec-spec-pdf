@@ -1,3 +1,7 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [Introduction](./cover.md)
+- [Vector DDL](./vector-ddl.md)
+- [Vector DML](./vector-dml.md)
+- [Vector Index](./vector-index.md)
+- [Vector Operations](./vector-operations.md)
